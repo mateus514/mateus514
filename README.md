@@ -32,9 +32,8 @@ Recipe Website – Built using HTML fundamentals.
 
 <div>
   <a href="https://github.com/mateus514">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mateus514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus514&layout=compact&langs_count=16&theme=dark"/>
-  </a>
 </div>
 
 
